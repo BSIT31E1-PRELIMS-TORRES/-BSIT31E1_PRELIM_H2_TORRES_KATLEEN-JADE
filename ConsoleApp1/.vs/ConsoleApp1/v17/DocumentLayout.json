@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\filereaderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\filereaderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\xmlfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\xmlfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\jsonfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\jsonfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\textfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\textfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\downloads\\bsit31e1_prelim_h1_torres_katleen_jade\\bsit31e1_prelim_h2_torres_katleen_jade\\-bsit31e1_prelim_h2_torres_katleen-jade\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReaderResolver.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\FileReaderResolver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileReaderResolver.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\FileReaderResolver.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileReaderResolver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:22:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-27T07:30:55.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\XmlFileReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\XmlFileReader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\XmlFileReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\XmlFileReader.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:35:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\JsonFileReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\JsonFileReader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\JsonFileReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\JsonFileReader.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:33:50.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\CsvFileReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CsvFileReader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\CsvFileReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\CsvFileReader.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:31:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\IFileReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IFileReader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\IFileReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\IFileReader.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:22:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\TextFileReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TextFileReader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\TextFileReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\TextFileReader.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:22:53.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BSIT31E1_PRELIM_H1_TORRES_KATLEEN_JADE\\BSIT31E1_PRELIM_H2_TORRES_KATLEEN_JADE\\-BSIT31E1_PRELIM_H2_TORRES_KATLEEN-JADE\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:22:51.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
